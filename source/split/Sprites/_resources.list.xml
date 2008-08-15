@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="wallgaro" type="RESOURCE"/>
+  <resource name="wallsero" type="RESOURCE"/>
+  <resource name="human" type="RESOURCE"/>
+  <resource name="sprite3" type="RESOURCE"/>
+</resources>

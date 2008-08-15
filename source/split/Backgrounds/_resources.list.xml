@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="wall" type="RESOURCE"/>
+  <resource name="background4" type="RESOURCE"/>
+  <resource name="background5" type="RESOURCE"/>
+  <resource name="background6" type="RESOURCE"/>
+  <resource name="background7" type="RESOURCE"/>
+  <resource name="background3" type="RESOURCE"/>
+  <resource name="down" type="RESOURCE"/>
+  <resource name="up" type="RESOURCE"/>
+</resources>

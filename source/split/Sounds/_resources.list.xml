@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="총" type="RESOURCE"/>
+  <resource name="배경" type="RESOURCE"/>
+  <resource name="죽는" type="RESOURCE"/>
+  <resource name="맞는" type="RESOURCE"/>
+</resources>

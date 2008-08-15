@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="object4" type="RESOURCE"/>
+  <resource name="몬스터 움직" type="GROUP"/>
+  <resource name="몬스터 쉼" type="GROUP"/>
+  <resource name="몬터총" type="GROUP"/>
+</resources>

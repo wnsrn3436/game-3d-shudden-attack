@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<event category="CREATE" id="0">
+  <actions>
+    <action id="603" library="1">
+      <!--action name: Code-->
+      <kind>CODE</kind>
+      <allowRelative>false</allowRelative>
+      <question>false</question>
+      <canApplyTo>true</canApplyTo>
+      <actionType>CODE</actionType>
+      <functionName/>
+      <relative>false</relative>
+      <not>false</not>
+      <appliesTo>.self</appliesTo>
+      <arguments>
+        <argument kind="STRING">{
+  x1 = x;
+  x2 = x;
+  y1 = y-16;
+  y2 = y+16;
+  z1 = 32;
+  z2 = 0;
+  tex = background_get_texture(wall);
+}</argument>
+      </arguments>
+    </action>
+  </actions>
+</event>

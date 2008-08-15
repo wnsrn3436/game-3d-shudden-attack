@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="몬스터" type="GROUP"/>
+  <resource name="캐릭" type="GROUP"/>
+  <resource name="그리기" type="GROUP"/>
+  <resource name="배경음" type="RESOURCE"/>
+</resources>
